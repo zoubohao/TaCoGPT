@@ -12,10 +12,8 @@
 
 TaCoGPT is a large language model employed for the taxonomic classification of microbial sequences.
 
-***WARNING***: This work is still in progress.
-
 ## TODO:
-Write interface.
+Write interface function to do training and inference.
 
 ## How to run
 
