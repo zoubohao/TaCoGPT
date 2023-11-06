@@ -1,0 +1,39 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "editor.fontFamily": "'Ubuntu Mono', 'Consolas', monospace",
+    "editor.fontSize": 14,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "keyword",
+                    "function",
+                    "constant",
+                    "entity.name.type.class",
+                    "storage",
+                    "keyword.control.import",
+                    "keyword.control.default",
+                    "keyword.control.from",
+                    "keyword.operator.new",
+                    "keyword.control.export",
+                    "keyword.control.flow",
+                    "storage.type.class",
+                    "storage.type.function",
+                    "storage.type",
+                    "storage.type.class",
+                    "variable.language",
+                    "variable.language.super",
+                    "variable.language.this",
+                    "meta.class",
+                    "meta.var.expr",
+                ],
+                "settings": {
+                    "fontStyle": "italic bold"
+                }
+            }
+        ]
+    },
+    "python.formatting.provider": "none"
+}
