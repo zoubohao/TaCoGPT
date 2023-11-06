@@ -1,6 +1,8 @@
 # TaCoGPT
 
+<div align="center">
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
+</div>
 
 ## Description
 
@@ -12,6 +14,11 @@ TaCoGPT is a large language model employed for the taxonomic classification of m
 Write interface.
 
 ## How to run
+
+Install the requirements for the requirements.txt file.
+
+---------------------------------------------------------
+
 Pre-train model
 
 ```bash
